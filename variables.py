@@ -32,3 +32,11 @@ print(list1)
 #Tuple: Ordered collection of elements of same or different datatypes which is immutable
 tuple1 = (("sparrow", "peigon"), (7, 9.5))
 print(tuple1)
+
+# OPERATORS
+print(5+6)
+print(15-6)
+print(5*6)
+print(15/6)
+print(15//6) #print values before decimal point
+print(15%6) #Gives remainder
