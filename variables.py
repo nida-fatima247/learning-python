@@ -4,9 +4,9 @@ c = True
 d = None
 
 print("The type of variable a is", type(a))
-print("The type of variable a is", type(b))
-print("The type of variable a is", type(c))
-print("The type of variable a is", type(d))
+print("The type of variable b is", type(b))
+print("The type of variable c is", type(c))
+print("The type of variable d is", type(d))
 
 
 # DATA TYPES
